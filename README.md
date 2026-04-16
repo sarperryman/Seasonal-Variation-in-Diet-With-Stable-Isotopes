@@ -1,4 +1,4 @@
-# Seasonal-Variation-in-Diet-With_Stable-Isotopes
+# Seasonal-Variation-in-Diet-With-Stable-Isotopes
 **Motivation**
 
 Understanding seasonal variation in the diet of marine predators is important for interpreting ecosystem dynamics. One common approach for inferring diet and foraging behavior is stable isotope analysis, where shifts in δ¹³C and δ¹⁵N values can reflect changes in prey availability or habitat use. In this project, I ask whether stable isotope values (δ¹³C and δ¹⁵N) can be used to classify dolphins by season. Traditional analyses of isotope data often focus on statistical differences or isotopic niche overlap, commonly using the SIBER framework. However, SIBER assumes elliptical niche shapes, which may not capture more complex patterns in the data. This project explores whether seasonal groups are predictably separable in isotope space, providing a complementary perspective on how strongly dolphin foraging ecology varies over time.
