@@ -17,6 +17,7 @@ To classify dolphins by season, I will use a random forest classifier, an ensemb
 I will evaluate the model by splitting the data into a training set and a test set. The model will be trained on the training data and then used to predict the season of samples in the test data. Model performance will be measured using accuracy, which represents how often the model correctly predicts the season.
 
 **Analysis**
+
 If the model achieves high accuracy on the test data, this suggests that isotope values differ across seasons and that seasonal groups are distinct in isotope space. Because stable isotope values reflect diet and foraging habitat, this would indicate that dolphins are likely using different resources or foraging strategies across seasons. This could reflect seasonal changes in prey availability or environmental conditions that influence where and how dolphins feed.
 
 If the model performs poorly, this would suggest substantial overlap in isotope values across seasons, indicating that dolphin foraging ecology is relatively consistent throughout the year. In this case, seasonal changes in prey or habitat use may be limited or not strongly reflected in isotope composition. Overall, these results will help determine how strongly seasonal variation influences dolphin foraging behavior.
